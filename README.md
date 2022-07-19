@@ -1,3 +1,11 @@
+# Сlickhouse Install Role
+## Переменные
+| Название переменной | Значение | Описание |
+| :--- | :--- | :--- |
+| `clickhouse_version` | `22.3.3.44` | Версия clickhouse. Может быть выставлено значение latest |
+
+# **Информация от создателя роли Сlickhouse**
+
 ansible-clickhouse 
 =========
 ![Build Status](https://github.com/alexeysetevoi/ansible-clickhouse/actions/workflows/ci.yml/badge.svg?branch=master)
